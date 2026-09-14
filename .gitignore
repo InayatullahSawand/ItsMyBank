@@ -1,0 +1,22 @@
+# Secrets
+**/application.properties
+**/.env
+**/.env.local
+
+# Java / Maven
+**/target/
+**/.idea/
+**/*.iml
+**/.classpath
+**/.project
+**/.settings/
+
+# Node
+**/node_modules/
+**/dist/
+**/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
